@@ -1,0 +1,19 @@
+{
+  "name": "advanced_node",
+  "version": "1.0.0",
+  "description": "Node project in Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luana-david/advanced_node.git"
+  },
+  "author": "Luana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luana-david/advanced_node/issues"
+  },
+  "homepage": "https://github.com/luana-david/advanced_node#readme"
+}
