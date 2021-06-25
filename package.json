@@ -4,7 +4,8 @@
   "description": "Node project in Bootcamp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/luana-david/advanced_node/issues"
   },
-  "homepage": "https://github.com/luana-david/advanced_node#readme"
+  "homepage": "https://github.com/luana-david/advanced_node#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.14"
+  }
 }
